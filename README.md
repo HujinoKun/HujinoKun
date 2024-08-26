@@ -9,7 +9,7 @@
 
 - 🤝 At the moment, I'm not available for freelancing or another job.
 
-- 🌱 I’m currently learning Google Cloud Platform and Data tools.
+- 🌱 I’m currently learning Google Cloud Platform, Azure and Data tools.
 
 - 📝 In the future, I hope to write technical articles when time permits.
 
