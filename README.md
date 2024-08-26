@@ -31,7 +31,7 @@
 <code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kubernetes/kubernetes.png"></code>
 <code><img height="25" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftechblog.istyle.co.jp%2Fwp-content%2Fuploads%2F2020%2F12%2Fgcp-logo-1024x576.png&f=1&nofb=1&ipt=50f3a7cf08ebbca7aacd9faa4a46e9ae96d3145a378db73b59390b3ed45e261d&ipo=images"></code>
 <code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/aws/aws.png"></code>
-
+<code><img height="25" src="https://github.com/atulkamble/atulkamble/blob/main/Logos/azure.png"></code>
 
 <br>
 
